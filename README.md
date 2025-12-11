@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there! 👋</h1>
-<p align="center">I'm <b>Elnatores</b> — a Telecommunications Engineering student at <b>Telkom University</b> focusing on Mobile Development and modern software fundamentals.</p>
+<p align="center">I'm <b>Elnatores</b> - a Telecommunications Engineering student at <b>Telkom University</b> focusing on Mobile Development and modern software fundamentals.</p>
 
 ---
 
@@ -19,18 +19,20 @@
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ntresx&theme=tokyonight&hide_border=true&show_icons=true" height="160px"/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ntresx&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ntresx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ntresx&theme=tokyonight" alt="Contribution graph" />
 </p>
 
 ---
@@ -49,8 +51,4 @@
   </a>
 </p>
 
----
-
-<br/>
-
-<p align="center"><i>"Always learning, always building."</i></p>
+----
