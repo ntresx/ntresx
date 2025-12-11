@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ntresx&theme=tokyonight" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntresx&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
