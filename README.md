@@ -1,7 +1,6 @@
-# Hey there! 👋
-
-I'm **Elnatores**, a Telecommunications Engineering student at **Telkom University**.  
-Currently focusing on **mobile development**, backend experiments with **Node.js**.
+<!-- Header -->
+<h1 align="center">Hey there! 👋</h1>
+<p align="center">I'm <b>Elnatores</b> — a Telecommunications Engineering student at <b>Telkom University</b> focusing on Mobile Development and modern software fundamentals.</p>
 
 ---
 
@@ -24,18 +23,34 @@ Currently focusing on **mobile development**, backend experiments with **Node.js
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ntresx&theme=tokyonight&hide_border=true&show_icons=true" height="160px"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ntresx&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ntresx&theme=tokyonight&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ntresx&layout=compact&theme=tokyonight&hide_border=true)
-![Streak Stats](https://streak-stats.demolab.com?user=ntresx&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ntresx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## <p align="center">🌐 Connect With Me</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elnatoresrafi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ntres.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/ntresx">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elnatoresrafi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntres.contact@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntresx)
-
----
+<p align="center"><i>"Always learning, always building."</i></p>
