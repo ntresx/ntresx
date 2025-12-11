@@ -5,15 +5,6 @@ Currently focusing on **mobile development**, backend experiments with **Node.js
 
 ---
 
-## 🚀 About Me
-- 🎓 First-year student passionate about software & communication tech  
-- 📱 Learning **Flutter & Dart** to build modern mobile applications  
-- 🧩 Occasionally exploring backend development using **Node.js**  
-- 📡 Interested in how telecom concepts integrate with real-world software  
-- 🌱 Always curious, always building  
-
----
-
 ## 🛠 Tech Stack  
 
 ### **Languages**
@@ -34,18 +25,17 @@ Currently focusing on **mobile development**, backend experiments with **Node.js
 ---
 
 ## 📈 GitHub Stats  
-> *Automatically generated based on your activity.*
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ntresx&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntresx&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ntresx&theme=tokyonight&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ntresx&layout=compact&theme=tokyonight&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=ntresx&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elnatoresrafi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntres.contact@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ntresx)
 
 ---
-
-### ✨ *"Always learning, always building."*
